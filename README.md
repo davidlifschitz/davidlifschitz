@@ -1,5 +1,8 @@
 ### Hi there 👋
-
+### I'm currently an undergraduate working towards a Bachelor's of Science in Computer Science concentrating in Data Science at Yeshiva University. Proud of my roles as the current YCSC Vice President and Board Member of the YU Artificial Intelligence and Machine Learning Club. 
+### Interned at Pypestream and MyPhoto. 
+### Completed studying Judaic studies in the Old City of Jerusalem at Yeshivat Orayta. 
+### BIG MCU Superfan.
 <!--
 **davidlifschitz/davidlifschitz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
