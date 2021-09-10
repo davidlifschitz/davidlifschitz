@@ -1,8 +1,10 @@
 ### Hi there 👋
 ### I'm currently an undergraduate working towards a Bachelor's of Science in Computer Science concentrating in Data Science at Yeshiva University. 
-### Proud of my roles as the current YCSC Vice President and Board Member of the YU Artificial Intelligence and Machine Learning Club. 
+### Proud of my roles as the current YCSC Vice President and President of the YU Artificial Intelligence and Machine Learning Club. 
+### Currently completed work for Courses: Intro To Computer Science, Data Structures, Intro to Algorithms, Programming Languages.
+### Currently working on projects for Courses: Comp Org and Assembly Language, Intro to Distribute Systems.
 ### Interned at Pypestream and MyPhoto. 
-### Completed studying Judaic studies in the Old City of Jerusalem at Yeshivat Orayta. 
+### Completed studying Judaic studies in the Old City of Jerusalem at Yeshivat Orayta.  
 ### BIG MCU Superfan.
 
 ### You can check out my Linkedin profile here: https://www.linkedin.com/in/david-lifschitz/
