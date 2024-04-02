@@ -1,11 +1,14 @@
 ### Hi there 👋
-### I'm currently an undergraduate working towards a Bachelor's of Science in Computer Science concentrating in Data Science at Yeshiva University. 
-### Proud of my roles as the current YCSC Vice President and President of the YU Artificial Intelligence and Machine Learning Club. 
-### Currently completed work for Courses: Intro To Computer Science, Data Structures, Intro to Algorithms, Programming Languages, Design and Analysis of Algorithms, Industrial Software Development.
-### Currently working on projects for Courses: Comp Org and Assembly Language, Intro to Distribute Systems.
-### Interned at Pypestream and MyPhoto. 
-### Completed studying Judaic studies in the Old City of Jerusalem at Yeshivat Orayta.  
-### BIG MCU Superfan.
+
+## About Me:
+### Passionate junior software engineer specializing in AI/ML and data science. Equipped with a strong academic background and hands-on experience building intelligent systems. Committed to staying at the forefront of this rapidly advancing field through continuous learning.
+
+### Always exploring new AI techniques and applications to develop innovative solutions that drive growth and solve complex real-world problems. Open to collaboration on impactful projects!
+
+### Let's build the future of AI together! ✨
+
+### Interned at JPMorgan Chase & Co., Pypestream, and MyPhoto. 
+### MCU Superfan.
 
 ### You can check out my Linkedin profile here: https://www.linkedin.com/in/david-lifschitz/
 <!--
